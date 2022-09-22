@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Igor",
+        "age": 24,
+        "is_studying": true,
+        "profession_details": {
+            "profession": "Programador",
+            "company": "Company X"
+        },
+        "hobbies": [
+            "Progamar",
+            "Jogar CS",
+            "Academia"
+        ]
+    }
+]
